@@ -1,7 +1,7 @@
 fastapi==0.100.0
 uvicorn==0.23.1
-pandas==1.5.3
-openpyxl==3.1.2
-konlpy==0.6.0
-soynlp==0.0.493
-krwordrank==1.0
+pandas
+openpyxl
+konlpy
+soynlp
+krwordrank
